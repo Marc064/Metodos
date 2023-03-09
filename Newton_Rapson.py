@@ -33,7 +33,6 @@ while (error<deltax):
 
 # convierte la lista a un arreglo.
 tabla = np.array(tabla)
-n = len(tabla)
 
 # SALIDA
 print(['xi', 'xnuevo', 'deltax'])
